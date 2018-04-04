@@ -1,24 +1,7 @@
 # vueadmin
 
-> 阅览地址 [isunke](http://isunke.cn:3003).
+> 在线地址 [isunke](http://isunke.cn:3003).
 
 > 默认账号admin 密码admin
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# vueadmin
+> 觉得还行给个start  过几天好好把这个文档写哈
