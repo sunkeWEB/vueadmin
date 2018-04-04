@@ -1,6 +1,6 @@
 # vueadmin
 
-> 阅览地址 [docs for vue-loader](http://vuejs.github.io/vue-loader).
+> 阅览地址 [isunke](http://isunke.cn:3003).
 
 > 默认账号admin 密码admin
 
