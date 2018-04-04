@@ -1,4 +1,6 @@
-# vueadmin
+# vueadmin 后台权限系统
+
+> 因为最近在学vue 就想到写这个试一下
 
 > 在线地址 [isunke](http://isunke.cn:3003).
 
