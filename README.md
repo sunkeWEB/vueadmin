@@ -1,6 +1,8 @@
 # vueadmin
 
-> A Vue.js project
+> 阅览地址 [isunke](isunke.cn:3003) 
+
+> 默认账号admin 密码admin
 
 ## Build Setup
 
